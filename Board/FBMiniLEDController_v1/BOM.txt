@@ -1,0 +1,5 @@
+Switch : EG2355-ND
+  ALT: https://www.amazon.com/Gadgeter-Position-Terminal-Latching-Toggle/dp/B01JU6KBH6/ref=sr_1_15?ie=UTF8&qid=1497560359&sr=8-15&keywords=toggle+switch
+  
+Level shifter : 1727-4596-1-ND
+
